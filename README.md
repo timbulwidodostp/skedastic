@@ -1,6 +1,8 @@
 # skedastic
 Heteroskedasticity Diagnostics for Linear Regression Models Use skedastic With (In) R Software
 
+https://www.youtube.com/watch?v=gbZISi0-QG4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
